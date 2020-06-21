@@ -1,4 +1,4 @@
 # testing-github-repository
 This repository is created for testing purpose
 
-Readme.md file was just edited manually. This file was modified locally
+This line was modified manually during conflicts resolution
